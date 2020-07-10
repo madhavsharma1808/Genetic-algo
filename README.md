@@ -9,6 +9,8 @@ Suppose a certain species that use Camouflage to hide from the predaors reside i
 
 In this generation we see individuals with different size and colors.
 
+![0](https://user-images.githubusercontent.com/43724427/87202418-270fbf00-c31e-11ea-8e3e-d08411ae02a5.PNG)
+
 1st generation-
 
 A lot of variation in height and size can still be seen.
